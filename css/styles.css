@@ -1,0 +1,51 @@
+h1 {
+    color: white;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+h2 {
+    color: yellow;
+    font-family: sans-serif;
+}
+h3 {
+    color: deeppink;
+    font-family: sans-serif;
+}
+h4 {
+    color: gold;
+}
+body {
+    background-color: brown;
+}.text-box {
+    background-color: darkviolet;
+    
+}
+ol {
+    font-style: oblique;
+    font-size: larger;
+    font-weight: initial;
+    font-family: serif;
+}
+.heading {
+    color: blueviolet;
+}
+.intro {
+    color: yellowgreen;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.important {
+    color: turquoise;
+}
+.description {
+    color: azure;
+    font-style: oblique;
+}
+.footer {
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: teal;
+}
