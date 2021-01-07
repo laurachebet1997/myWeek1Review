@@ -30,7 +30,7 @@
 
 
 # live link
-        `http://127.0.0.1:5500/week2.project.html`
+        `https://laurachebet1997.github.io/myWeek1Review/
  
 
 # contact information;
